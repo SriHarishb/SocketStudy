@@ -1,7 +1,7 @@
 # Ex.No:1a  			Study of Socket Programming
-# Name: Sri Harish B
-# Reg No: 212223220110
-# Dept: Btech-IT
+### Name: Sri Harish B
+### Reg No: 212223220110
+### Dept: Btech-IT
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
